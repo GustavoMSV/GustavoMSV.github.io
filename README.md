@@ -13,5 +13,7 @@ Este projeto pode ser utilizado para incentivar pessoas a criarem o seu portfól
 ## Contato
 
 Gustavo Moreno - [Linkedin](https://www.linkedin.com/in/gustavo-moreno-5803a0229)
+
 Meu e-mail: gustavomorenosiqueira86@gmail.com
+
 Celular: (11) 99786-8798
